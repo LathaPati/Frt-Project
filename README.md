@@ -2,11 +2,11 @@
 
 
 
-AZURE LINK : https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
+AZURE LINK : https://lively-meadow-01b8a2a00.2.azurestaticapps.net
 
 
 
-Memorial Books is our project that is done as the solution , is a collection of various famous books 
+Klassy Cafe is our project that is done as the solution , is a collection of various famous books 
 as our solution we made a webpage that where we kept few books and their cloud links in our site which is used to help and download file that required
 
 
@@ -43,8 +43,9 @@ as our solution we made a webpage that where we kept few books and their cloud l
 
 # About Us
 We are BTech pursuing Students,from 3rd year we consider this as problem as we facing the same situtaion regularly.our team
+
 -  P Latha
--  
+ 
 -  K Dharmateja
 
 -  K Chandini
