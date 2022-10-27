@@ -6,8 +6,8 @@ AZURE LINK : https://lively-meadow-01b8a2a00.2.azurestaticapps.net
 
 
 
-Klassy Cafe is our project that is done as the solution , is a collection of various famous books 
-as our solution we made a webpage that where we kept few books and their cloud links in our site which is used to help and download file that required
+Klassy Cafe is our project that is done as the solution for searching of best Foddies of us as our solution we made a webpage that where we few food items in our site which is used to help 
+
 
 
 # Features
