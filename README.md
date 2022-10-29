@@ -2,7 +2,7 @@
 
 
 
-Azure Link    : https://kind-moss-02d961400.2.azurestaticapps.net
+Azure Link    : https://lively-meadow-01b8a2a00.2.azurestaticapps.net
 
 YOUTUBE LINK : https://youtu.be/ZZ8CmNdLWiw
 
