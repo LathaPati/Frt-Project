@@ -9,7 +9,7 @@ YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 PROJECT DEMO URL: https://lathapati.github.io/Frt-Project/
 
 
-PROJECT LINK(GITHUB REPOSITORY) : 
+PROJECT LINK(GITHUB REPOSITORY) : https://lathapati.github.io/Frt-Project
 
 
 
