@@ -4,7 +4,7 @@
 
 AZURE LINK : https://kind-moss-02d961400.2.azurestaticapps.net
 
-YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
+YOUTUBE LINK : https://youtu.be/ZZ8CmNdLWiw
 
 PROJECT DEMO URL: https://lathapati.github.io/Frt-Project/
 
