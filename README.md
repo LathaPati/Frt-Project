@@ -9,7 +9,7 @@ YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
 
 
-PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
+PROJECT LINK(GITHUB REPOSITORY) : https://github.com/keerthikorumilli/frtproject
 
 
 
@@ -36,7 +36,8 @@ Klassy Cafe is our project that is done as the solution for searching of best Fo
 -  Css
 
 -  Js
-  GitHub Tools
+
+-  GitHub Tools
 
 -  Azure Static Web Apps
 
@@ -64,25 +65,22 @@ Klassy Cafe is our project that is done as the solution for searching of best Fo
 # Deployment  Screenshots
 
 - Azure Environment
-- ![azure](https://user-images.githubusercontent.com/85716910/198466082-e678fd3f-20d2-44c6-b86c-c516d4ba3682.PNG)
+
+![latha azr web](https://user-images.githubusercontent.com/112966533/198844560-aa6c25ff-9f56-4f65-ad05-b9d207a50216.jpg)
 
 
 - Github Runtime Actions
-- ![keerthi](https://user-images.githubusercontent.com/85716910/198419187-b0398e18-3559-43b6-b656-ea37a3862f5c.PNG)
+
+![latha github act](https://user-images.githubusercontent.com/112966533/198844577-9fece584-4aaa-4d92-8264-d58b825ce546.jpg)
 
 # Project WorkFlow
 
-![workflow](https://user-images.githubusercontent.com/85716910/198467281-4b2e349b-3426-4c79-966a-05557f91100a.PNG)
-
+![latha wrkflow capt](https://user-images.githubusercontent.com/112966533/198844593-0d4258f9-269a-4d4c-8719-16df7af5489b.jpg)
 
 # Compatibility
  -  It Contains Great UI for Both Mobile and Desktop
  
  -  Easy to Navigate in Both Mobile and Deaktop
-
-#  Environment
- ![Azr cap](https://user-images.githubusercontent.com/112966533/198363644-9f74bd87-c87f-4c16-96f3-66f5ebd6c568.jpg)
-![github actions](https://user-images.githubusercontent.com/112966533/198364617-0aaf58a8-4542-42e0-bfc7-ac57f485dc25.jpg)
 
 # Screenshot
 ![Capt](https://user-images.githubusercontent.com/112966533/198355827-7eb71bda-0bd7-4ee0-a8fc-c13ecbb9f8f1.jpg)
