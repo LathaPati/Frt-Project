@@ -66,7 +66,8 @@ Klassy Cafe is our project that is done as the solution for searching of best Fo
 
 - Azure Environment
 
-![latha azr web](https://user-images.githubusercontent.com/112966533/198844560-aa6c25ff-9f56-4f65-ad05-b9d207a50216.jpg)
+![latha azr cap](https://user-images.githubusercontent.com/112966533/198848567-53be106f-8ae7-4831-bc32-343b6b27b552.jpg)
+
 
 
 - Github Runtime Actions
